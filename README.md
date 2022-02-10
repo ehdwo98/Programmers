@@ -1,5 +1,5 @@
 # Programmers
-### 뻐킹 알고리즘 파이썬으로 조지기
+### 알고리즘 코테
 
 https://programmers.co.kr/learn/challenges <- 프로그래머스 코테 연습
 
